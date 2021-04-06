@@ -1,2 +1,3 @@
 # Brainstorm
 Melhorias
+Para começar precisamos diminuir o número de manobristas para 5 para termos um ambiente mais controlado, depois disso iremos demarcar 5 áreas diferentes do estacionamento para que cada manobrista seja responsável por essa área para saber quantos carros cabem nela, e para resolver o problema de pagamento iremos instalar catracas para a entrada e saída dos veículos, quando você entrar irá receber um ticket que você terá que pagar após seu período de permanência no local para que a catraca de saída te libere, o pagamento poderá ser feito no caixa eletrônico com cartão ou feito no guichê com nosso funcionário onde serão efetuados pagamentos com dinheiro vivo.
